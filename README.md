@@ -2,7 +2,7 @@
 
 Small browser game built on a custom **Entity–Component–System (ECS)** engine written in **JavaScript**, using a **functional programming** approach (immutability, function composition, higher-order functions, map/filter/reduce).
 
-**Game:** Move the player and dodge falling meteors. Score increases over time. You have 3 lives, brief invulnerability after a hit, pause, and a simple starfield background.
+**Game:** Move the player and dodge falling meteors. Score increases over time. You have 3 lives, brief invulnerability after a hit.
 
 ---
 
@@ -78,4 +78,3 @@ src/
 ---
 
 ## License
-MIT (or choose your preferred license)
